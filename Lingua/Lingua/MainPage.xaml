@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lingua.MainPage">
+    <StackLayout BackgroundColor="White">
+        <Image Source="menu_logo.png" WidthRequest="240" HeightRequest="240" Margin="0,50,13,50"/>
+        <Label Text="SELECT" FontSize="35" FontAttributes="Bold" TextColor="#7fd0b2" HorizontalOptions="Center" VerticalOptions="Center" Margin="0,0,0,20"/>
+        <ImageButton Source="stvoicebtn.png" Clicked="STVButtonClicked" BackgroundColor="Transparent" WidthRequest="50" HeightRequest="50" Margin="0,0,0,20"/>
+        <ImageButton Source="sttextbtn.png" Clicked="STTButtonClicked" BackgroundColor="Transparent" WidthRequest="50" HeightRequest="50" Margin="0,0,0,20"/>
+        <ImageButton Source="voicetsbtn.png" Clicked="VTSButtonClicked" BackgroundColor="Transparent" WidthRequest="50" HeightRequest="50" Margin="0,0,0,20"/>
+        <ImageButton Source="stoturialbtn.png" Clicked="STutButtonClicked" BackgroundColor="Transparent" WidthRequest="50" HeightRequest="50" Margin="0,0,0,20"/>
+    </StackLayout>
+</ContentPage>
+

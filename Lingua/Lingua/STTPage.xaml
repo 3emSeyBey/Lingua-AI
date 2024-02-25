@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+    x:Class="Lingua.STTPage"
+    BackgroundColor="White">
+    <ContentPage.Content>
+        <AbsoluteLayout x:Name="mainContainer">
+            <xct:CameraView
+                AbsoluteLayout.LayoutFlags="All" 
+                AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+                x:Name="cameraView"
+                CaptureMode="Photo"
+                MediaCaptured="OnMediaCaptured"
+                FlashMode="Off"
+                HorizontalOptions="CenterAndExpand"
+                VerticalOptions="CenterAndExpand"
+                CameraOptions="Front"/>
+            <Frame x:Name ="handBox" 
+                        BackgroundColor="Transparent"
+                        AbsoluteLayout.LayoutFlags="PositionProportional"
+                        AbsoluteLayout.LayoutBounds="0.9, 0.5"
+                        BorderColor="Green"
+                        CornerRadius="5"
+                        HeightRequest="180"
+                        WidthRequest="180">
+            </Frame>
+            <Label x:Name ="TagLabel"
+                   AbsoluteLayout.LayoutFlags="PositionProportional"
+                   AbsoluteLayout.LayoutBounds="0.9, 0.62, -1, -1"
+                   BackgroundColor="#33000000"
+                   TextColor="White"/>
+            <Image x:Name="End"
+                        IsAnimationPlaying="False"
+                        HeightRequest="75"
+                        AbsoluteLayout.LayoutFlags="PositionProportional"
+                        AbsoluteLayout.LayoutBounds="0.8, 0.95, -1, -1"
+                        Source="STTEndIcon.png"
+                        BackgroundColor="Transparent"
+                        HorizontalOptions="FillAndExpand"
+                        VerticalOptions="EndAndExpand">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                        Tapped = "CloseAndBackAsync"
+                        NumberOfTapsRequired="1" />
+                </Image.GestureRecognizers>
+            </Image>
+            <Button x:Name="ContinousCaptureButton" 
+                    Text="Start Continous Capture"
+                    AbsoluteLayout.LayoutFlags="PositionProportional"
+                    AbsoluteLayout.LayoutBounds="0.1, 0.9, -1, -1"
+                    BackgroundColor="LawnGreen"
+                    TextColor="Black"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="EndAndExpand"
+                    Clicked="StartContinousCapture"/>
+            <Button x:Name="StopContinousCaptureButton" 
+                    Text="Pause Continous Capture"
+                    AbsoluteLayout.LayoutFlags="PositionProportional"
+                    AbsoluteLayout.LayoutBounds="0.1, 0.98, -1, -1"
+                    BackgroundColor="#f08080"
+                    TextColor="Black"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="EndAndExpand"
+                    Clicked="PauseContinousCapture"/>
+            <StackLayout
+                AbsoluteLayout.LayoutFlags="PositionProportional"
+                AbsoluteLayout.LayoutBounds="0.9, 0.8">
+                <Frame CornerRadius="5"
+                   BackgroundColor="White"
+                   HeightRequest="50"
+                   Padding="0"
+                   WidthRequest="220"
+                   HorizontalOptions="FillAndExpand">
+                    <StackLayout>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+                            <Editor x:Name="subPredictText" 
+                                Grid.Column="0" 
+                                Keyboard="Plain" 
+                                AutoSize="TextChanges" 
+                                MaxLength="500"
+                                TextColor="Black"
+                                FontSize="Subtitle"
+                                TextChanged="CaptureTextChanged"/>
+                            <Button Grid.Column="1"
+                                Text="Send"
+                                BackgroundColor="LawnGreen"
+                                Clicked="sendToDatabase"
+                                TextColor="Black"
+                                FontSize="16"
+                                WidthRequest="70"
+                                Margin="5"
+                                CornerRadius="5"/>
+                        </Grid>
+                    </StackLayout>
+                </Frame>
+                <ListView x:Name="listView" 
+                          Margin="0,-5,80,0" 
+                          WidthRequest="100" 
+                          HeightRequest="100" 
+                          RowHeight="30"
+                          BackgroundColor="Transparent"
+                          ItemSelected="suggestionSelected">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Label Text="{Binding .}" FontSize="16" BackgroundColor="#33000000" TextColor="White"/>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

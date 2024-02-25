@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lingua.VTSPage"
+             BackgroundColor="White">
+    <ContentPage.Content>
+        <StackLayout Spacing="10" x:Name="layout" Padding="0,40,0,0">
+            <Image Source="page_logo.png"
+                       HorizontalOptions="Center"
+                       VerticalOptions="CenterAndExpand" 
+                       HeightRequest="100"
+                       Margin="0,-40,0,0"/>
+            <Grid>
+                <Frame BackgroundColor="LightGreen"
+                       HasShadow="False"
+                       HeightRequest="1500"
+                       Padding="7"
+                       Margin="20,0,20,0">
+                    <Frame BackgroundColor="White"
+                       HasShadow="False"
+                       HeightRequest="50"
+                       Padding="10">
+                        <StackLayout>
+                            <StackLayout>
+                                <Frame 
+                                    BackgroundColor="LightBlue"
+                                    HeightRequest="1500">
+                                    <Label x:Name="RecognitionText" 
+                                        FontSize="Large"
+                                        LineHeight="1"
+                                        BackgroundColor="#33000000"
+                                        TextColor="White"
+                                        HorizontalOptions="CenterAndExpand"
+                                        VerticalOptions="EndAndExpand" />
+                                </Frame>
+
+                            </StackLayout>
+                            <StackLayout>
+                                <Image x:Name="Image_btn_recognize"
+                                     IsAnimationPlaying="False"
+                                     HeightRequest="50"
+                                     Source="sound.gif"
+                                     BackgroundColor="Transparent"
+                                     HorizontalOptions="FillAndExpand"
+                                     VerticalOptions="EndAndExpand">
+                                    <Image.GestureRecognizers>
+                                        <TapGestureRecognizer
+                                            Tapped="OnRecognitionButtonClicked"
+                                            NumberOfTapsRequired="1" />
+                                    </Image.GestureRecognizers>
+                                </Image>
+                            </StackLayout>
+                        </StackLayout>
+                    </Frame>
+                </Frame>
+            </Grid>
+            <Button Text="DISCONNECT"
+                BackgroundColor="#f08080"
+                TextColor="White"
+                FontSize="Large"
+                CornerRadius="10"
+                Margin="20"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="FillAndExpand" 
+                Clicked="OnDisconnectClick"
+                    />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,76 @@
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.csproj.AssemblyReference.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\STTPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\STutPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\STVPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\VTSPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.AssemblyInfoInputs.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.AssemblyInfo.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.csproj.CoreCompileInputs.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\bin\Debug\netstandard2.1\Lingua.deps.json
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\bin\Debug\netstandard2.1\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\bin\Debug\netstandard2.1\Lingua.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\bin\Debug\netstandard2.1\Mono.Android.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\bin\Debug\netstandard2.1\Mono.Android.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\bin\Debug\netstandard2.1\Mono.Android.xml
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.csproj.CopyComplete
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\refint\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\ref\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.csproj.AssemblyReference.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\obj\Debug\netstandard2.1\STTPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\obj\Debug\netstandard2.1\STutPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\obj\Debug\netstandard2.1\STVPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\obj\Debug\netstandard2.1\VTSPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.AssemblyInfoInputs.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.AssemblyInfo.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.csproj.CoreCompileInputs.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\bin\Debug\netstandard2.1\Lingua.deps.json
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\bin\Debug\netstandard2.1\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\bin\Debug\netstandard2.1\Lingua.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\bin\Debug\netstandard2.1\Mono.Android.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\bin\Debug\netstandard2.1\Mono.Android.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\bin\Debug\netstandard2.1\Mono.Android.xml
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.csproj.CopyComplete
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\obj\Debug\netstandard2.1\refint\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423\Lingua\Lingua\obj\Debug\netstandard2.1\ref\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.csproj.AssemblyReference.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\GenerateQR.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\NameElect.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\ReceiverPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\RoleSelectionPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\ScanQR.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\STTPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\STutPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\VTSPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.AssemblyInfoInputs.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.AssemblyInfo.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.csproj.CoreCompileInputs.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\refint\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\bin\Debug\netstandard2.1\Lingua.deps.json
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\bin\Debug\netstandard2.1\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\bin\Debug\netstandard2.1\Lingua.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\bin\Debug\netstandard2.1\Mono.Android.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\bin\Debug\netstandard2.1\Mono.Android.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\bin\Debug\netstandard2.1\Mono.Android.xml
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.csproj.CopyComplete
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_020423 - Copy\Lingua\Lingua\obj\Debug\netstandard2.1\ref\Lingua.dll
+C:\Users\Eem\Documents\GitHub\Lingua-AI\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.dll
+C:\Users\Eem\Documents\GitHub\Lingua-AI\Lingua\Lingua\obj\Debug\netstandard2.1\refint\Lingua.dll
+C:\Users\Eem\Documents\GitHub\Lingua-AI\Lingua\Lingua\obj\Debug\netstandard2.1\Lingua.pdb

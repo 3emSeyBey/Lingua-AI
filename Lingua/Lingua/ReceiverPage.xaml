@@ -1,0 +1,80 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lingua.ReceiverPage">
+    <ContentPage.Content>
+        <StackLayout Spacing="10" x:Name="layout" Padding="0,40,0,0" BackgroundColor="White">
+            <Image Source="page_logo.png"
+                   HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand" 
+                   HeightRequest="100"
+                   Margin="0,-40,0,0"/>
+            <Grid>
+                <Frame BackgroundColor="LightGreen"
+                       HasShadow="False"
+                       HeightRequest="1500"
+                       Padding="7"
+                       Margin="20,0,20,0">
+                    <Frame BackgroundColor="White"
+                           HasShadow="False"
+                           HeightRequest="50"
+                           Padding="5">
+                        <StackLayout>
+                            <StackLayout>
+                                <Frame 
+                                    BackgroundColor="LightBlue"
+                                    Padding="10"
+                                    HasShadow="True">
+                                    <StackLayout>
+                                        <CollectionView x:Name="collectionView"
+                                                        ItemsSource="{Binding MessageItems}"
+                                                        VerticalOptions="FillAndExpand"
+                                                        ItemsUpdatingScrollMode="KeepLastItemInView">
+                                            <CollectionView.ItemTemplate>
+                                                <DataTemplate>
+                                                    <StackLayout Margin="5,5,5,0" Spacing="5">
+                                                        <Frame BackgroundColor="Transparent" CornerRadius="5" Padding="10,5">
+                                                            <StackLayout Margin="0,5,5,0" Spacing="5">
+                                                                <Grid>
+                                                                    <Grid.ColumnDefinitions>
+                                                                        <ColumnDefinition Width="Auto"/>
+                                                                        <ColumnDefinition Width="*"/>
+                                                                    </Grid.ColumnDefinitions>
+                                                                    <Image Grid.Column="0" Source="user.png" WidthRequest="20" HeightRequest="20" VerticalOptions="Center" Margin="5,0,5,0"/>
+                                                                    <Frame Grid.Column="1" BackgroundColor="LightGreen" CornerRadius="5" Padding="10,5">
+                                                                        <StackLayout>
+                                                                            <Label x:Name="usernamelabel" Text="Sender" FontAttributes="Bold" TextColor="Black" FontSize="16"/>
+                                                                            <Label Text="{Binding MessagingProperty}" FontSize="16" TextColor="Black"/>
+                                                                        </StackLayout>
+                                                                    </Frame>
+                                                                </Grid>
+                                                            </StackLayout>
+
+                                                        </Frame>
+                                                    </StackLayout>
+                                                </DataTemplate>
+                                            </CollectionView.ItemTemplate>
+                                        </CollectionView>
+                                        <StackLayout Orientation="Horizontal" HorizontalOptions="End">
+                                            <Label Text="Auto-play incoming voices" VerticalOptions="Center" TextColor="Black"/>
+                                            <CheckBox x:Name="autoplay"/>
+                                        </StackLayout>
+                                    </StackLayout>
+                                </Frame>
+                            </StackLayout>
+                        </StackLayout>
+                    </Frame>
+                </Frame>
+            </Grid>
+            <Button Text="DISCONNECT"
+                    BackgroundColor="#f08080"
+                    TextColor="White"
+                    FontSize="Large"
+                    CornerRadius="10"
+                    Margin="20"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="FillAndExpand" 
+                    Clicked="CloseReceive"
+                    />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

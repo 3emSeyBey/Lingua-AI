@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:zxing="clr-namespace:ZXing.Net.Mobile.Forms;assembly=ZXing.Net.Mobile.Forms"
+             xmlns:zxcm="clr-namespace:ZXing.Common;assembly=zxing"
+             x:Class="Lingua.GenerateQR">
+    <ContentPage.Content>
+        <StackLayout Padding="20" BackgroundColor="White">
+            <zxing:ZXingBarcodeImageView
+                IsVisible="True"
+                x:Name="QRCodeView"
+                BarcodeFormat="QR_CODE"
+                HeightRequest="300"
+                WidthRequest="300">
+                <zxing:ZXingBarcodeImageView.BarcodeOptions>
+                    <zxcm:EncodingOptions Width="300" Height="300" />
+                </zxing:ZXingBarcodeImageView.BarcodeOptions>
+            </zxing:ZXingBarcodeImageView>
+
+            <Button Text="Proceed"
+                    BackgroundColor="Green"
+                    TextColor="White"
+                    CornerRadius="10"
+                    Margin="20,30,20,0"
+                    HeightRequest="50"
+                    FontSize="Large" 
+                    Clicked="proceed"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,103 @@
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\bin\Debug\netstandard2.0\Lingua.deps.json
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\bin\Debug\netstandard2.0\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\bin\Debug\netstandard2.0\Lingua.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.csproj.AssemblyReference.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\obj\Debug\netstandard2.0\STTPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\obj\Debug\netstandard2.0\STutPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\obj\Debug\netstandard2.0\STVPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\obj\Debug\netstandard2.0\VTSPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.AssemblyInfoInputs.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.AssemblyInfo.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.csproj.CoreCompileInputs.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\obj\Debug\netstandard2.0\refint\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua\Lingua\Lingua\obj\Debug\netstandard2.0\ref\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.csproj.AssemblyReference.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\obj\Debug\netstandard2.0\STTPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\obj\Debug\netstandard2.0\STutPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\obj\Debug\netstandard2.0\STVPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\obj\Debug\netstandard2.0\VTSPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.AssemblyInfoInputs.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.AssemblyInfo.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.csproj.CoreCompileInputs.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\obj\Debug\netstandard2.0\refint\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\bin\Debug\netstandard2.0\Lingua.deps.json
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\bin\Debug\netstandard2.0\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\bin\Debug\netstandard2.0\Lingua.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_12Mar23_5_23PM\Lingua\Lingua\obj\Debug\netstandard2.0\ref\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\bin\Debug\netstandard2.0\Lingua.deps.json
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\bin\Debug\netstandard2.0\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\bin\Debug\netstandard2.0\Lingua.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.csproj.AssemblyReference.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\STTPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\STutPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\STVPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\VTSPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.AssemblyInfoInputs.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.AssemblyInfo.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.csproj.CoreCompileInputs.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\refint\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_14Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\ref\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.csproj.AssemblyReference.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\STTPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\STutPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\STVPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\VTSPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.AssemblyInfoInputs.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.AssemblyInfo.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.csproj.CoreCompileInputs.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\bin\Debug\netstandard2.0\Lingua.deps.json
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\bin\Debug\netstandard2.0\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\bin\Debug\netstandard2.0\Lingua.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\refint\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\ref\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.csproj.CopyComplete
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\bin\Debug\netstandard2.0\Lingua.deps.json
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\bin\Debug\netstandard2.0\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\bin\Debug\netstandard2.0\Lingua.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.csproj.AssemblyReference.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.0\STTPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.0\STutPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.0\STVPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.0\VTSPage.xaml.g.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.AssemblyInfoInputs.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.AssemblyInfo.cs
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.csproj.CoreCompileInputs.cache
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.csproj.CopyComplete
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.0\refint\Lingua.dll
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.0\Lingua.pdb
+C:\Users\clone\OneDrive\Desktop\Project\Lingua_15Mar23 - Copy\Lingua\Lingua\obj\Debug\netstandard2.0\ref\Lingua.dll

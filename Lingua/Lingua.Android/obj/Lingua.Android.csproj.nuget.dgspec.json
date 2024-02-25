@@ -1,0 +1,232 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Eem\\Documents\\GitHub\\Lingua-AI\\Lingua\\Lingua.Android\\Lingua.Android.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Eem\\Documents\\GitHub\\Lingua-AI\\Lingua\\Lingua.Android\\Lingua.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eem\\Documents\\GitHub\\Lingua-AI\\Lingua\\Lingua.Android\\Lingua.Android.csproj",
+        "projectName": "Lingua.Android",
+        "projectPath": "C:\\Users\\Eem\\Documents\\GitHub\\Lingua-AI\\Lingua\\Lingua.Android\\Lingua.Android.csproj",
+        "packagesPath": "C:\\Users\\Eem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eem\\Documents\\GitHub\\Lingua-AI\\Lingua\\Lingua.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Eem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid13.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid13.0": {
+            "projectReferences": {
+              "C:\\Users\\Eem\\Documents\\GitHub\\Lingua-AI\\Lingua\\Lingua\\Lingua.csproj": {
+                "projectPath": "C:\\Users\\Eem\\Documents\\GitHub\\Lingua-AI\\Lingua\\Lingua\\Lingua.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid13.0": {
+          "dependencies": {
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "ImageFromXamarinUI": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.CognitiveServices.Speech": {
+              "target": "Package",
+              "version": "[1.26.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.1.1-alpha.0.4, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "SkiaSharp.Views.Forms": {
+              "target": "Package",
+              "version": "[2.88.3, )"
+            },
+            "Xam.Plugins.OnDeviceCustomVision": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Xamarin.CommunityToolkit": {
+              "target": "Package",
+              "version": "[2.1.0-build-81113.1954, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.5, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2578, )"
+            },
+            "Xamarin.Plugin.ImageEdit": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "ZXing.Net.Mobile": {
+              "target": "Package",
+              "version": "[3.1.0-beta2, )"
+            },
+            "ZXing.Net.Mobile.Forms": {
+              "target": "Package",
+              "version": "[3.1.0-beta2, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\Eem\\Documents\\GitHub\\Lingua-AI\\Lingua\\Lingua\\Lingua.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eem\\Documents\\GitHub\\Lingua-AI\\Lingua\\Lingua\\Lingua.csproj",
+        "projectName": "Lingua",
+        "projectPath": "C:\\Users\\Eem\\Documents\\GitHub\\Lingua-AI\\Lingua\\Lingua\\Lingua.csproj",
+        "packagesPath": "C:\\Users\\Eem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eem\\Documents\\GitHub\\Lingua-AI\\Lingua\\Lingua\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Eem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "ImageFromXamarinUI": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.CognitiveServices.Speech": {
+              "target": "Package",
+              "version": "[1.26.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.1.1-alpha.0.4, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "SkiaSharp.Views.Forms": {
+              "target": "Package",
+              "version": "[2.88.3, )"
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Xam.Plugins.OnDeviceCustomVision": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Xamarin.CommunityToolkit": {
+              "target": "Package",
+              "version": "[2.1.0-build-81113.1954, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.5, )"
+            },
+            "Xamarin.FFImageLoading": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Transformations": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2578, )"
+            },
+            "ZXing.Net.Mobile": {
+              "target": "Package",
+              "version": "[3.1.0-beta2, )"
+            },
+            "ZXing.Net.Mobile.Forms": {
+              "target": "Package",
+              "version": "[3.1.0-beta2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

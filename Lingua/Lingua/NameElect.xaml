@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lingua.NameElect">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+            <Frame x:Name="entryFrame" Padding="0" CornerRadius="10" BackgroundColor="White" HasShadow="False">
+                <Entry Placeholder="What is your name?" 
+                       x:Name="entry_name"
+                       PlaceholderColor="Green" 
+                       FontSize="Large" 
+                       FontFamily="Arial" 
+                       TextColor="Blue" 
+                       VerticalOptions="CenterAndExpand" 
+                       HorizontalOptions="CenterAndExpand"
+                       TextChanged="entrytextchanged"
+                       WidthRequest="250"/>
+            </Frame>
+
+            <Button Text="Submit" 
+                    FontSize="Large" 
+                    FontFamily="Arial" 
+                    BackgroundColor="Blue" 
+                    TextColor="White" 
+                    CornerRadius="10" 
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="CenterAndExpand" 
+                    WidthRequest="250" 
+                    HeightRequest="50"
+                    Clicked="onButtonClicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
